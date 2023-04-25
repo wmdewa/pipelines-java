@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Default
+pool: vmssubuntu2204
 
 steps:
 - task: Maven@3
